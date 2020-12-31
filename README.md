@@ -1,3 +1,7 @@
+# Lyrix | lyrics search web-app
+This repository contains a webapp that returns the lyrics of any song.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
