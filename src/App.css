@@ -24,6 +24,8 @@ body{
     flex-direction: column;
     height: 80px;
     width: 100%;
+    bottom: 0;
+    left: 0;
     background-color: #4db6ac;
     color: #4db6ac;
 }
