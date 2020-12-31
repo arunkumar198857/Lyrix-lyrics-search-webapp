@@ -7,3 +7,45 @@ body{
     transform: scale(1.01);
     background: #004D40;
 }
+
+.social-icons{
+    display: flex;
+    align-self: center;
+    margin-top: 10px;
+}
+
+.icons{
+    color: #fff;
+    margin-right: 10px;
+}
+
+.footer-main{
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    width: 100%;
+    background-color: #4db6ac;
+    color: #4db6ac;
+}
+
+.outro{
+    text-align: center;
+}
+
+#footer-text{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#footer-text a{
+    text-decoration: none;
+    color: #fff;
+}
+
+@media(max-width: 720px){
+    .footer-main #footer-text{
+        font-size: 14px;
+        font-weight: 400;
+    }
+}
