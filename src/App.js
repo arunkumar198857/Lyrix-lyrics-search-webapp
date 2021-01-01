@@ -18,6 +18,7 @@ function App() {
               <Route exact path="/" component={Index}></Route>
               <Route exact path="/lyrics/tracks/:id" component={Lyrics}></Route>
             </Switch>
+            <div className="push"></div>
           </div>
           <Footer />
         </React.Fragment>
