@@ -5,7 +5,7 @@ This repository contains a webapp that returns the lyrics of any song.
 
 Deployed @ https://arunkumar-lyrix.netlify.app/
 
-API Used: musixmatch
+Made using React.js, Bootstrap and Musixmatch API.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/arunkumar198857/Lyrix-lyrics-search-webapp)
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Farunkumar-lyrix.netlify.app%2F)
